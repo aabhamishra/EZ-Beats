@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EZ-Beats/static/css/main.9c94bd19.css",
+    "main.js": "/EZ-Beats/static/js/main.51f559ed.js",
+    "static/js/787.657801f3.chunk.js": "/EZ-Beats/static/js/787.657801f3.chunk.js",
+    "static/media/HomePage.jpg": "/EZ-Beats/static/media/HomePage.ae4c8b8e427f6b680dc5.jpg",
+    "static/media/music.jpg": "/EZ-Beats/static/media/music.f5d5f8cd2af56893fcf0.jpg",
+    "static/media/speaker-circles.png": "/EZ-Beats/static/media/speaker-circles.9ab8d48c789d98937c8e.png",
+    "index.html": "/EZ-Beats/index.html",
+    "static/media/vector-2.svg": "/EZ-Beats/static/media/vector-2.3fef2dfffae89293aa8767b31a986e85.svg",
+    "main.9c94bd19.css.map": "/EZ-Beats/static/css/main.9c94bd19.css.map",
+    "main.51f559ed.js.map": "/EZ-Beats/static/js/main.51f559ed.js.map",
+    "787.657801f3.chunk.js.map": "/EZ-Beats/static/js/787.657801f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c94bd19.css",
+    "static/js/main.51f559ed.js"
+  ]
+}

@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import React from "react";
 
 import SamplerLayout from "./SamplerLayout";
@@ -10,7 +10,7 @@ import SamplerLogout from "../auth/SamplerLogout";
 
 function SamplerApp() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Routes>
                 <Route path="/" element={<SamplerLayout />}>
                     <Route index element={<SamplerHome />} />
@@ -21,7 +21,7 @@ function SamplerApp() {
                 </Route>
 
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
